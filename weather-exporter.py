@@ -254,10 +254,3 @@ while True:
     except: pass
 
     time.sleep(UPDATE_PERIOD)
-
-
-
-
-#with open('/var/www/html/realtime.txt', 'r') as f:
-#    weather_metric = f.read().split(' ')
-#    print weather_metric[1]
